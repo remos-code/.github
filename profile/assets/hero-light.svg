@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Remos Code — Ingeniería de red carrier-grade">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FAFAFA"/>
+      <stop offset="100%" stop-color="#F4F4F5"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E4E4E7" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.82" cy="0.5" r="0.55">
+      <stop offset="0%" stop-color="#E11D48" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#E11D48" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+
+  <g font-family="Sora, ui-sans-serif, system-ui, -apple-system, sans-serif">
+    <text x="80" y="98" font-size="13" font-weight="600" fill="#52525B" letter-spacing="5">REMOS &#183; CODE</text>
+
+    <text x="80" y="172" font-size="54" font-weight="700" fill="#0B0B0B" letter-spacing="-1">Ingeniería de red</text>
+    <text x="80" y="232" font-size="54" font-weight="700" fill="#0B0B0B" letter-spacing="-1">carrier-grade.</text>
+
+    <circle cx="573" cy="216" r="9" fill="#E11D48"/>
+
+    <text x="80" y="286" font-family="Inter, ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="17" font-weight="400" fill="#52525B">Open-source tooling for network operators &#183; by Remos Services</text>
+  </g>
+
+  <g transform="translate(920, 180)" opacity="0.95">
+    <g stroke="#D4D4D8" stroke-width="1.5" fill="none">
+      <line x1="0" y1="-90" x2="0" y2="20"/>
+      <line x1="85" y1="-45" x2="0" y2="20"/>
+      <line x1="125" y1="45" x2="0" y2="20"/>
+      <line x1="60" y1="105" x2="0" y2="20"/>
+      <line x1="-70" y1="90" x2="0" y2="20"/>
+      <line x1="-115" y1="-25" x2="0" y2="20"/>
+      <line x1="0" y1="-90" x2="85" y2="-45"/>
+      <line x1="85" y1="-45" x2="125" y2="45"/>
+      <line x1="125" y1="45" x2="60" y2="105"/>
+      <line x1="60" y1="105" x2="-70" y2="90"/>
+      <line x1="-70" y1="90" x2="-115" y2="-25"/>
+      <line x1="-115" y1="-25" x2="0" y2="-90"/>
+    </g>
+
+    <line x1="-115" y1="-25" x2="0" y2="20" stroke="#E11D48" stroke-width="2" opacity="0.9"/>
+    <line x1="0" y1="-90" x2="0" y2="20" stroke="#E11D48" stroke-width="2" opacity="0.9"/>
+
+    <circle cx="0" cy="-90" r="6" fill="#E11D48"/>
+    <circle cx="85" cy="-45" r="5" fill="#0B0B0B"/>
+    <circle cx="125" cy="45" r="5" fill="#0B0B0B"/>
+    <circle cx="60" cy="105" r="5" fill="#0B0B0B"/>
+    <circle cx="-70" cy="90" r="5" fill="#0B0B0B"/>
+    <circle cx="-115" cy="-25" r="6" fill="#E11D48"/>
+    <circle cx="0" cy="20" r="9" fill="#E11D48"/>
+    <circle cx="0" cy="20" r="14" fill="none" stroke="#E11D48" stroke-width="1.5" opacity="0.4"/>
+  </g>
+</svg>
