@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/company/remos">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://wa.me/573021196666">WhatsApp</a>
+  <a href="https://wa.me/573021196666">@remosservicessas</a>
   &nbsp;·&nbsp;
   <a href="mailto:hola@remos.com.co">hola@remos.com.co</a>
 </p>
